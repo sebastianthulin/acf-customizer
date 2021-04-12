@@ -35,7 +35,7 @@ Domain Path: /languages/
 namespace ACFCustomizer;
 
 if ( ! defined('ABSPATH') ) {
-	die('FU!');
+	die('Not allowed.');
 }
 
 require_once dirname(__FILE__) . '/include/autoload.php';
